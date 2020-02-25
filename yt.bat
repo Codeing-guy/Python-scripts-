@@ -1,1 +1,2 @@
-python C:\Users\Intel\Desktop\Codes\Python\PythonScripts\Youtube\yt.py %*
+python location where the file s saved \yt.py %*
+   
